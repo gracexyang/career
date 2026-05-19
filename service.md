@@ -44,6 +44,9 @@ layout: null
 <h2>Academic Service</h2>
 <ul class="dense-list">
     <li>
+        <span class="role-title">Guest Lecturer</span>, "Geopoliticas of Digital Sovereignty", Swing Internet Governance School, Bruge, United Nations University, Beilgium <span class="date-right">April 2026</span>
+    </li>
+    <li>
         <span class="role-title">Invited Reviewer</span>, <em>The Journal of Current Chinese Affairs</em> (Sage). <span class="date-right">2025 – Present</span>
     </li>
     <li>
