@@ -59,6 +59,15 @@ layout: null
 
 <div class="invited-item">
     <div class="invited-header">
+        <span class="invited-role">Guest Lecturer</span>
+        <span class="invited-venue">Internet Governance Winter School (SWING)</span>
+        <span class="invited-date">Apr 2026</span>
+    </div>
+    <div class="invited-topic"><strong>Course Taught:</strong> Geopolitics of Digital Sovereignty</div>
+</div>
+
+<div class="invited-item">
+    <div class="invited-header">
         <span class="invited-role">Session Convener</span>
         <span class="invited-venue">Critical Infrastructure Lab Retreat</span>
         <span class="invited-date">Jul 2025</span>
